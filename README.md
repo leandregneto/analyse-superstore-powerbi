@@ -30,6 +30,12 @@ Ce projet est une analyse complète des données de vente du dataset "Superstore
 - Dataset Superstore
 
 ---
+## 📌 Résultats clés
+📍 Les régions de l'est et Ouest sont les plus performantent en termes de profit  particulèrement dans la catégorie office supplie et technology le centre aussi à une bonne performance dans la ctégorie technology  ;,, 
+
+📍 Les meubles de bureau génèrent un bon chiffre d'affaires mais ont une faible rentabilité
+
+📍 Le segment "consumer" est plus rentable que "Home Office" et "corporate"
 
 ## 📷 Exemples de visualisations
 
