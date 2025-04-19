@@ -48,5 +48,6 @@ Ce projet est une analyse complète des données de vente du dataset "Superstore
 *[(Ajoute ici tes captures d’écran une fois uploadées dans le dossier `captures/`)](https://github.com/leandregneto/analyse-superstore-powerbi/tree/main/analyse-superstore-powerbi/Capture)*
 
 ```markdown
-![Dashboard Principal](captures/dashboard1.png)
-![Analyse par Région](captures/dashboard2.png)
+![Dashboard Principal](captures/ssegment categorie ete region.PNG)
+![Analyse par Région et sous catégorie](vente et profit par sous categorie et region.PNG)
+![Analyse par sous catégorie](vente et profit par sous categorie et region.PNG)
