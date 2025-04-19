@@ -45,7 +45,7 @@ Ce projet est une analyse complète des données de vente du dataset "Superstore
 
 ## 📷 Exemples de visualisations
 
-*(Ajoute ici tes captures d’écran une fois uploadées dans le dossier `captures/`)*
+*[(Ajoute ici tes captures d’écran une fois uploadées dans le dossier `captures/`)](https://github.com/leandregneto/analyse-superstore-powerbi/tree/main/analyse-superstore-powerbi/Capture)*
 
 ```markdown
 ![Dashboard Principal](captures/dashboard1.png)
