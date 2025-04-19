@@ -31,9 +31,15 @@ Ce projet est une analyse complète des données de vente du dataset "Superstore
 
 ---
 ## 📌 Résultats clés
-📍 Les régions de l'est et Ouest sont les plus performantent en termes de profit  particulèrement dans la catégorie office supplie et technology le centre aussi à une bonne performance dans la ctégorie technology  ;,, 
+📍 Les régions de l'est et Ouest sont les plus performantentes en terme de profit  particulèrement dans la catégorie office supplie et technology le centre aussi à une bonne performance dans la ctégorie technology 
+
+📍 La région central génère des perte en particulier au niveau de la catégorie furniture
 
 📍 Les meubles de bureau génèrent un bon chiffre d'affaires mais ont une faible rentabilité
+
+📍 La catégorie furniture est celle qui génère mon de prit que les autres
+
+📍 La sous catégorie fasterner génère très peu de profit tandis que les sous categories bookcases, tables et supplies génèrent des pertes 
 
 📍 Le segment "consumer" est plus rentable que "Home Office" et "corporate"
 
